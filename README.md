@@ -1,34 +1,24 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Fayas M
-</h1>
+<h1 align="center">Hi 👋, I'm Fayas M</h1>
 
 <p align="center">
   <a href="https://github.com/fayas07m-web">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&width=760&height=45&lines=B.Com+(Computer+Applications)+Student;US+CMA+Candidate;Finance+%C3%97+Technology+Enthusiast;Aspiring+Financial+%26+Data+Analyst;Building+with+Finance%2C+Data+%26+Technology"
-      alt="Typing Animation"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&height=45&lines=B.Com+(Computer+Applications)+Student;US+CMA+Candidate;Finance+%C3%97+Technology+Enthusiast;Aspiring+Financial+%26+Data+Analyst;Building+with+Finance%2C+Data+%26+Technology" alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=fayas07m-web&label=PROFILE%20VIEWS&color=00C2FF&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=fayas07m-web&label=PROFILE%20VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/fayas07m-web">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://www.linkedin.com/in/fayas-m-srm">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://fayas07m-web.github.io/Fayas.portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -65,28 +55,26 @@
 <h2 align="center">🎯 What I'm Focused On</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" width="250">
-      <h3>💰 Finance</h3>
-      Financial Analysis<br/>
-      Business Analytics<br/>
-      FinTech
-    </td>
-
-    <td align="center" width="250">
-      <h3>📊 Data</h3>
-      Data Analytics<br/>
-      Business Intelligence<br/>
-      Data-Driven Decisions
-    </td>
-
-    <td align="center" width="250">
-      <h3>💻 Technology</h3>
-      Python<br/>
-      SQL<br/>
-      Web Development
-    </td>
-  </tr>
+<tr>
+<td align="center" width="250">
+<h3>💰 Finance</h3>
+Financial Analysis<br>
+Business Analytics<br>
+FinTech
+</td>
+<td align="center" width="250">
+<h3>📊 Data</h3>
+Data Analytics<br>
+Business Intelligence<br>
+Data-Driven Decisions
+</td>
+<td align="center" width="250">
+<h3>💻 Technology</h3>
+Python<br>
+SQL<br>
+Web Development
+</td>
+</tr>
 </table>
 
 ---
@@ -121,8 +109,6 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<!-- WealthLens -->
-
 <h3 align="center">💰 WealthLens — Investment Portfolio Dashboard</h3>
 
 <p align="center">
@@ -134,7 +120,6 @@
   <a href="https://wealthlens-app.fayas07-m.workers.dev/">
     <img src="https://img.shields.io/badge/Live%20Project-Open%20WealthLens-00C2FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="WealthLens Live Project" />
   </a>
-
   <a href="https://github.com/fayas07m-web">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="WealthLens Source Code" />
   </a>
@@ -144,9 +129,7 @@
   <b>Focus:</b> Investment Tracking • Portfolio Management • Financial Technology
 </p>
 
----
-
-<!-- SIP Calculator -->
+<br>
 
 <h3 align="center">📈 SIP Calculator</h3>
 
@@ -160,15 +143,13 @@
   <a href="https://wealthlens.unaux.com">
     <img src="https://img.shields.io/badge/Live%20Calculator-Open%20SIP%20Calculator-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SIP Calculator" />
   </a>
-
   <a href="https://github.com/fayas07m-web">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SIP Calculator Source Code" />
   </a>
 </p>
 
 <p align="center">
-  <b>Features:</b> SIP Calculator • Step-Up SIP • Lump Sum • Inflation Adjustment •
-  Growth Chart • Year-by-Year Projection
+  <b>Features:</b> SIP Calculator • Step-Up SIP • Lump Sum • Inflation Adjustment • Growth Chart • Year-by-Year Projection
 </p>
 
 ---
@@ -204,37 +185,26 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=fayas07m-web&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=00C2FF"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fayas07m-web&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/fayas07m-web">
+    <img src="https://github-readme-stats.vercel.app/api?username=fayas07m-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&rank_icon=github" height="180" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/fayas07m-web">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayas07m-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" height="180" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fayas07m-web&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=fayas07m-web&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
 <!-- ========================= CONTRIBUTION ========================= -->
 
-<h2 align="center">🐍 Contribution Journey</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayas07m-web&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
@@ -260,11 +230,9 @@
   <a href="https://www.linkedin.com/in/fayas-m-srm">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://github.com/fayas07m-web">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://fayas07m-web.github.io/Fayas.portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
