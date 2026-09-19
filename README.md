@@ -159,26 +159,68 @@ Web Development
 <h2 align="center">📜 Certifications & Learning</h2>
 
 <p align="center">
+  <i>
+    Continuous learning across Technology, Data Analytics, Finance,
+    Business and Professional Development.
+  </i>
+</p>
+
+<!-- ================= TECHNOLOGY & DATA ================= -->
+
+<h3 align="center">💻 Technology & Data</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python%20for%20Beginners-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Beginners" />
   <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis with Python" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design" />
-  <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Cybersecurity" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Digital Marketing" />
-  <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
+  <img src="https://img.shields.io/badge/Introduction%20to%20Cognos%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Introduction to Cognos Analytics" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Methodology-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Data Science Methodology" />
+</p>
+
+<!-- ================= BUSINESS & DIGITAL ================= -->
+
+<h3 align="center">📈 Business & Professional Skills</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fundamentals%20of%20Digital%20Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Fundamentals of Digital Marketing" />
+  <img src="https://img.shields.io/badge/Learn%20Business%20English-00A67E?style=for-the-badge" alt="Learn Business English" />
+</p>
+
+<!-- ================= EXCEL & FINANCE ================= -->
+
+<h3 align="center">💰 Finance & Excel</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Introduction%20to%20MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Introduction to MS Excel" />
+  <img src="https://img.shields.io/badge/Using%20Excel%20for%20Finance-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Using Excel for Finance" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel%20for%20Finance-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel for Finance" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />
+  <img src="https://img.shields.io/badge/Commercial%20Banking%20Operations-2563EB?style=for-the-badge" alt="Analyze and Apply Commercial Banking Operations" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Financial%20Modeling%3A%20Statements%2C%20Costs%20%26%20Forecasts-1F6FEB?style=for-the-badge" alt="Financial Modeling: Statements, Costs and Forecasts" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Driven%20Financial%20Planning%2C%20Forecasting%20%26%20Automation-7C3AED?style=for-the-badge" alt="AI-Driven Financial Planning, Forecasting, and Automation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Statistical%20%26%20Predictive%20Modeling%20for%20Finance-0F766E?style=for-the-badge" alt="Statistical and Predictive Modeling for Finance" />
+</p>
+
+<p align="center">
+  <b>14 Certificates Completed</b>
+</p>
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
