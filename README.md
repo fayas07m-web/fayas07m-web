@@ -228,28 +228,43 @@ Web Development
 
 <p align="center">
   <a href="https://github.com/fayas07m-web">
-    <img src="https://github-readme-stats.vercel.app/api?username=fayas07m-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&rank_icon=github" height="180" alt="GitHub Statistics" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fayas07m-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&rank_icon=github"
+      width="48%"
+      alt="Fayas M GitHub Statistics"
+    />
   </a>
+
   <a href="https://github.com/fayas07m-web">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayas07m-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" height="180" alt="Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayas07m-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=6"
+      width="48%"
+      alt="Fayas M Top Languages"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fayas07m-web&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=fayas07m-web&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    width="70%"
+    alt="Fayas M GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-<!-- ========================= CONTRIBUTION ========================= -->
+<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayas07m-web&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fayas07m-web&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="Fayas M GitHub Contribution Activity Graph"
+  />
 </p>
-
----
 
 <!-- ========================= CAREER GOAL ========================= -->
 
