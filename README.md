@@ -1,10 +1,18 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= FINANCE × TECHNOLOGY HEADER ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B2A43,75:0F766E,100:00C2FF&height=210&section=header&text=FAYAS%20M&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FINANCE%20%C3%97%20DATA%20%C3%97%20TECHNOLOGY&descSize=18&descAlignY=61&descAlign=50"
+    width="100%"
+    alt="Fayas M Finance and Technology Header"
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm Fayas M</h1>
 
 <p align="center">
   <a href="https://github.com/fayas07m-web">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&height=45&lines=B.Com+(Computer+Applications)+Student;US+CMA+Candidate;Finance+%C3%97+Technology+Enthusiast;Aspiring+Financial+%26+Data+Analyst;Building+with+Finance%2C+Data+%26+Technology" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&width=820&height=45&lines=B.Com+(Computer+Applications)+Student;US+CMA+Candidate;Finance+%C3%97+Technology+Enthusiast;Aspiring+Financial+%26+Data+Analyst;Building+with+Finance%2C+Data+%26+Technology" alt="Finance and Technology Typing Animation" />
   </a>
 </p>
 
@@ -73,6 +81,54 @@ Data-Driven Decisions
 Python<br>
 SQL<br>
 Web Development
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================= FINANCE × TECH VISUAL ========================= -->
+
+<h2 align="center">📊 Finance × Technology</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FINANCE-0F766E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Finance" />
+  <img src="https://img.shields.io/badge/DATA-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Data" />
+  <img src="https://img.shields.io/badge/TECHNOLOGY-00C2FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Technology" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=5EEAD4&center=true&vCenter=true&width=760&height=42&lines=Portfolio+Tracking+%7C+Financial+Analytics;Data+%7C+Business+Intelligence+%7C+FinTech;Build+%E2%86%92+Analyze+%E2%86%92+Visualize+%E2%86%92+Improve" alt="Finance Technology Workflow Animation" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+<b>💹 FINANCE</b><br><br>
+Financial Analysis<br>
+Investment Tracking<br>
+Financial Modeling<br>
+FinTech
+
+</td>
+<td align="center" width="250">
+
+<b>📈 ANALYTICS</b><br><br>
+Data Analysis<br>
+Business Intelligence<br>
+Forecasting<br>
+Data-Driven Decisions
+
+</td>
+<td align="center" width="250">
+
+<b>⚙️ TECHNOLOGY</b><br><br>
+Python<br>
+SQL<br>
+Web Development<br>
+Automation
+
 </td>
 </tr>
 </table>
@@ -227,44 +283,22 @@ Web Development
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/fayas07m-web">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=fayas07m-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&rank_icon=github"
-      width="48%"
-      alt="Fayas M GitHub Statistics"
-    />
-  </a>
-
-  <a href="https://github.com/fayas07m-web">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayas07m-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=6"
-      width="48%"
-      alt="Fayas M Top Languages"
-    />
-  </a>
-</p>
-
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=fayas07m-web&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    width="70%"
+    src="https://streak-stats.demolab.com/?user=fayas07m-web&hide_border=true&background=07111F&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    width="78%"
     alt="Fayas M GitHub Contribution Streak"
   />
 </p>
 
----
-
-<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fayas07m-web&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-    alt="Fayas M GitHub Contribution Activity Graph"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Open Source" />
+  <img src="https://img.shields.io/badge/Projects-Finance%20%26%20Technology-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Finance and Technology Projects" />
+  <img src="https://img.shields.io/badge/Building-Data%20Driven%20Tools-00C2FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Data Driven Tools" />
 </p>
+
+> **Note:** The broken GitHub Statistics, Top Languages, and Activity Graph cards were intentionally removed. This keeps the profile clean instead of showing broken external images.
+
+---
 
 <!-- ========================= CAREER GOAL ========================= -->
 
@@ -296,5 +330,13 @@ Web Development
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,35:0F766E,70:0B2A43,100:07111F&height=120&section=footer&animation=twinkling"
+    width="100%"
+    alt="Finance and Technology Footer"
+  />
+</p>
+
+<p align="center">
+  <i>Finance • Data • Technology • Continuous Learning ⭐</i>
 </p>
